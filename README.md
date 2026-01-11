@@ -6,5 +6,5 @@ A really cool gradient background with moving balls of colour.
 Frontend   --  HTML / CSS / JavaScript <br/>
 Backend     -- Node.js
 
-#Contact 📬
+# Contact 📬
 Created by Owen Anderson on March ‎26, ‎2024
